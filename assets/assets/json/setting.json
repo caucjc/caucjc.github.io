@@ -1,0 +1,30 @@
+{
+  "empresa": {
+    "nombre": "CAUC JC",
+    "pathLogo": "assets/images/logo-caucjc-2.png",
+    "appTitulo": "CAUC JC",
+    "appTituloShort": "CAUC JC",
+    "agrupadoresAgencias": [{ "codigo": "HDL" },
+							{ "codigo": "HDL010" },
+							{ "codigo": "HDL020" },
+							{ "codigo": "HDL030" },
+							{ "codigo": "HDL040" },
+							{ "codigo": "HDL050" },
+							{ "codigo": "HDL060" },
+							{ "codigo": "HDL070" },
+							{ "codigo": "HDL080" },
+							{ "codigo": "HDL090" },
+							{ "codigo": "HDL2" },
+							{ "codigo": "HDLBA" }],
+    "agrupadoresAgenciasEx": [],
+	"isRegistro": true,
+	"isLogoHeader": true,
+	"isBackgroundTransparentHeader": false,
+	"uriAuthority": "wssvp2.duckdns.org",
+	"baseUrl": "https://wssvp2.duckdns.org/api",
+	"colorPrimarySwatch": "#3105fa",
+	"contacto": "https://svpstreaming.duckdns.org/_app/_cauc/_info/Contacto.pdf",
+	"datosBancarios": "https://svpstreaming.duckdns.org/_app/_cauc/_info/DatosBancarios.pdf",
+	"solicitudes": "https://svpstreaming.duckdns.org/_app/_cauc/_info/Solicitudes.pdf"
+  }
+}
